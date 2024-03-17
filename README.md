@@ -19,7 +19,7 @@ Making the Most of Less Commute - https://public.tableau.com/views/WFHcommutefam
 WFH WBP Gender - https://public.tableau.com/views/finalprojectWFH/WFHWBPGender_1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Getting Started
-In 'WFH data exploration and cleaning' Jupyter NB you can find the 'WFHdata_February24.csv' with it's 611 columns and 236,164 rows. Various columns were explored using the 'Variable dictionary March24.pdf'. Once the relevant columns were chosen, cleaned and improved, dataset were exported for modeling('rem.xlsx') and visualisations('dfBoss.xlsx','dfcommute.xlsx','dfwp.xlsx','dfp.csv','wfhc.csv')
+In 'WFH data exploration and cleaning' Jupyter NB you can find the 'WFHdata_February24.csv' with it's 611 columns and 236,164 rows. Various columns were explored using the 'Variable dictionary March24.pdf'. Once the relevant columns were chosen, cleaned and improved, dataset were exported for modeling('rem.xlsx','dfwp.xlsx') and visualisations.
 
 Corrolation and dependecies between participant traits and their WFH/WBP wishlist are analysed in 'WFH WBP.ipynb'. Different prediction classifiers are tested in 'rem data manipulation.ipynb'. TOnca scales and normalized, the first prediction model has the best accuracy results however the data is highly imbalanced. Therefor I proceded with testing various models on up and down samples from the data. 
 
