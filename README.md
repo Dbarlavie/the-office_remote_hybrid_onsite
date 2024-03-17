@@ -1,5 +1,4 @@
-The Office
-Remote/Hybrid/On-Site Work
+**The Office** - Remote/Hybrid/On-Site Work
 
 Four years ago, almost to the day we were hit with a worldwide pandemic that sent all of us to lockdown,  some of us ,for the first time, to work from home. 
 Remote workers are percieved more productive because they have no commute, fewer distractions, more time for family, exercise, and overall better work-life balance. 
